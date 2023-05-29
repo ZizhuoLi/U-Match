@@ -9,10 +9,10 @@ Welcome bugs and issues!
 
 If you find this project useful, please cite:
 ```
-@article{li2023umatch,
+@inproceedings{li2023umatch,
   title={U-Match: Two-view Correspondence Learning with Hierarchy-aware Local Context Aggregation},
   author={Li, Zizhuo and Zhang, Shihua and Ma, Jiayi},
-  journal={International Joint Conference on Artificial Intelligence (IJCAI)},
+  booktitle={International Joint Conference on Artificial Intelligence (IJCAI)},
   year={2023}
 }
 ```
